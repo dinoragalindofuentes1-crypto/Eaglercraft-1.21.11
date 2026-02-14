@@ -1,0 +1,24 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.class
+*.log
+hs_err_pid*
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# IDEs
+*.idea/
+*.vscode/
+*.project
+*.classpath
+*.settings/
+*.iml
+.DS_Store
+Thumbs.db
